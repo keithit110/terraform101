@@ -1,4 +1,4 @@
-/* Challenge Solution - Terraform and Docker
+i/* Challenge Solution - Terraform and Docker
    main.tf */
 
 terraform {
