@@ -2,4 +2,3 @@
 set ${config_key} = ${config_value}
 %{ endfor ~}
 
-templatefile("${path.module}/websockets.tftpl", {config = {"x" = "y", "foo" = "bar", "key" = "value"}})
